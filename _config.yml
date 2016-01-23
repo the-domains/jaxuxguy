@@ -1,7 +1,7 @@
 name: JaxUXGuy
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.89978
+layout_spectrum: 0.7373325265944004
+typography_spectrum: 0.07395308837294579
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#053e6a'
-    - '#7b85ac'
-    - '#a2b0d3'
-    - '#3d5417'
-    - '#f3e3e3'
-  brandStrength: 0.3125
-  lightness: 0.75
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.3859767613466829
+  lightness: 0.8699789186939597
   saturation: 0.9707411811687052
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.4584049913100898
 purpose: []
