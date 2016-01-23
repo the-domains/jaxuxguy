@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-23T18:30:43.890Z'
+datePublished: '2016-01-23T18:30:43.954Z'
 dateModified: '2016-01-23T18:30:37.287Z'
 title: Just Starting Out...
 author: []
